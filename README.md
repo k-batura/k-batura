@@ -44,4 +44,6 @@ Here's a fun fact: I prefer tabs over spaces.
   <summary><b>click me</b></summary>
     
   <img align="left" src="./images/cat-meme.gif"/>
+
+  accurate depiction of me ^
 </details>
