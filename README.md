@@ -37,5 +37,5 @@ Here's a fun fact: I prefer tabs over spaces.
 <details>	
   <summary><b>Click here</b></summary>
     
-  <img align="left" src="./images/cat-meme.gif" height="100"width="100"/>
+  <img align="left" src="./images/cat-meme.gif"/>
 </details>
