@@ -4,11 +4,23 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeyabatura.kb@gmail.com?subject=[GitHub])
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=k-batura)
+**Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=k-batura)**
 
-<img align="right" alt="GIF" src="./images/code.gif     " width="500" height="320" />
+<img align="right" alt="GIF" src="./images/code.gif" width="500" height="320" />
 
-**Languages and Tools:** 
+
+### About Me:
+
+- 📚 &nbsp; I'm currently studying Computer Science @ York University
+- 🌱 &nbsp; I’m currently learning React to build my personal website
+- 💻 &nbsp; I'm currently working towards an internship
+- 🚀 &nbsp; I like learning about new and upcoming tech stacks!
+- 🍕 &nbsp; I like swimming, photography and video games
+- 👾 &nbsp; Fun fact: I prefer tabs over spaces
+
+
+
+### Languages and Tools:
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -22,11 +34,11 @@
 
 
 
-<p><img align="bottom-left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" /></p>
 
 
 <details>	
-  <summary><b>Click here!</b></summary>
-
+  <summary><b>Click here</b></summary>
+    
   <img src="./images/cat-meme.gif" />
 </details>
