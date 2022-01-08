@@ -31,8 +31,7 @@ Here's a fun fact: I prefer tabs over spaces.
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats"/>
 
 
-</br>
-
+<br>
 
 <details>	
   <summary><b>Click here</b></summary>
