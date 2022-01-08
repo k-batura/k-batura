@@ -6,19 +6,16 @@
 
 **Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=k-batura)**
 
-<img align="right" alt="GIF" src="./images/code.gif" width="500" height="320" />
+<br />
 
 
 ### About Me:
 
-- 📚 &nbsp; I'm currently studying Computer Science @ York University
-- 🌱 &nbsp; I’m currently learning React while building my personal website
-- 💻 &nbsp; I'm currently working towards an internship
-- 🚀 &nbsp; I like learning about new and upcoming tech stacks!
-- 🍕 &nbsp; I like swimming, photography and video games
-- 👾 &nbsp; Fun fact: I prefer tabs over spaces
+Hi, I'm currently Karti, I'm currently enrolled in BSc. Computer Science Honors at York University. I’m currently learning React while building my personal website. This is helping me work towards an internship which is my goal at the moment. I am someone who likes learning about new and upcoming tech stacks! Other than that, I like swimming, photography and video games.
 
+Here's a fun fact: I prefer tabs over spaces.
 
+<img align="right" alt="GIF" src="./images/code.gif" width="450" height="320" />
 
 ### Languages and Tools:
 
@@ -34,11 +31,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" width="500"/></p>
 
 
 <details>	
   <summary><b>Click here</b></summary>
     
-  <img src="./images/cat-meme.gif" />
+  <img align="left" src="./images/cat-meme.gif" height="100"width="100"/>
 </details>
