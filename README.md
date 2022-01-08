@@ -30,10 +30,3 @@ Here's a fun fact: I prefer tabs over spaces.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats"/></p>
-
-
-<details>	
-  <summary><b>Click here</b></summary>
-    
-  <img align="left" src="./images/cat-meme.gif"/>
-</details>
