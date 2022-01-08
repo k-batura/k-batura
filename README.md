@@ -4,10 +4,10 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kartikeyabatura.kb@gmail.com?subject=[GitHub])
 
 
+
 **Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=k-batura)**
 
 <br />
-
 
 ### About Me:
 
