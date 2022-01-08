@@ -6,6 +6,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=k-batura)
 
+<img align="right" alt="GIF" src="./images/code.gif" width="500" height="320" />
+
 **Languages and Tools:** 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
