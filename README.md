@@ -12,7 +12,7 @@
 ### About Me:
 
 - 📚 &nbsp; I'm currently studying Computer Science @ York University
-- 🌱 &nbsp; I’m currently learning React to build my personal website
+- 🌱 &nbsp; I’m currently learning React while building my personal website
 - 💻 &nbsp; I'm currently working towards an internship
 - 🚀 &nbsp; I like learning about new and upcoming tech stacks!
 - 🍕 &nbsp; I like swimming, photography and video games
@@ -34,7 +34,7 @@
 
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" /></p>
 
 
 <details>	
