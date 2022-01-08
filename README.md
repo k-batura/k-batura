@@ -31,11 +31,11 @@ Here's a fun fact: I prefer tabs over spaces.
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats" width="500"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-batura&layout=compact" alt="k-batura github stats"/></p>
 
 
 <details>	
   <summary><b>Click here</b></summary>
     
-  <img align="left" src="./images/cat-meme.gif"/>
+  <img align="left" src="./images/cat-meme.gif" height="100"width="100"/>
 </details>
