@@ -45,5 +45,5 @@ Here's a fun fact: I prefer tabs over spaces.
     
   <img align="left" src="./images/cat-meme.gif"/>
 
-  accurate depiction of me ^
+  <-- accurate depiction of me
 </details>
