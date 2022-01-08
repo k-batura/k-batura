@@ -34,7 +34,7 @@ Here's a fun fact: I prefer tabs over spaces.
 <br>
 
 <details>	
-  <summary><b>Click here</b></summary>
+  <summary><b>Click</b></summary>
     
   <img align="left" src="./images/cat-meme.gif"/>
 </details>
