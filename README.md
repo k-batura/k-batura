@@ -15,7 +15,7 @@ Hi, I'm currently Karti, I'm currently enrolled in BSc. Computer Science Honors 
 
 Here's a fun fact: I prefer tabs over spaces.
 
-<img align="right" alt="GIF" src="./images/code.gif" width="450" height="320" />
+<img align="bottom-right" alt="GIF" src="./images/code.gif" width="450" height="320" />
 
 
 ### Languages and Tools:
