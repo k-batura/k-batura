@@ -26,5 +26,5 @@
 <details>	
   <summary><b>Click here!</b></summary>
 
-  <img src="./images/cat-meme.gif />
+  <img src="./images/cat-meme.gif" />
 </details>
