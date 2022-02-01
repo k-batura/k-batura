@@ -9,7 +9,7 @@
 
 ### About Me:
 
-Hi, I'm currently Karti, I'm currently enrolled in BSc. Computer Science Honors at York University. I’m currently learning React while building my personal website. This is helping me work towards an internship which is my goal at the moment. I am someone who likes learning about new and upcoming tech stacks! Other than that, I like swimming, photography and video games.
+Hi, I'm currently Karti, I'm currently enrolled in BSc. Computer Science Honors at York University. I’m currently learning React while building my personal website. This is helping me work towards an internship which is my goal at the moment. I am someone who likes learning about new and upcoming tech stacks! Other than that, I like swimming, philosophy and video games.
 
 Here's a fun fact: I prefer tabs over spaces.
 
