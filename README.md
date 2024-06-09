@@ -9,7 +9,7 @@
 
 ### About Me:
 
-Hi, I'm Karti, I'm currently enrolled in BSc. Computer Science Honors at York University. I am someone who likes learning about new and upcoming tech stacks! Other than that, I like swimming, philosophy and video games.
+Hi, I'm Karti, I'm currently enrolled in BSc. Computer Science Honors at York University. I like learning about new and upcoming tech! Other than that, I enjoy swimming, philosophy and video games.
 
 Here's a fun fact: I prefer tabs over spaces.
 
